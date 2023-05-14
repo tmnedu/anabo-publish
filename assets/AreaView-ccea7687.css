@@ -1,0 +1,1 @@
+.helper-card{background-color:var(--color-background-soft);box-shadow:0 3px 1px -2px #0003,0 2px 2px #00000024,0 1px 5px #0000001f}.helpers-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px 12px}@media (max-width: 780px){.helpers-grid{grid-template-columns:1fr}}
