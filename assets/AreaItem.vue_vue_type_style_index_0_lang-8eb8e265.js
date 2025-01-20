@@ -1,0 +1,1 @@
+import{d as a,o as n,a as r,x as t,l as o}from"./index-56ee9ada.js";const l=["innerHTML"],_=a({__name:"AreaItem",props:{area:null},setup(e){return(c,s)=>e.area?(n(),r("div",{key:0,class:"area-item",style:t(`background-color: ${e.area.color}; color: #aaa`),innerHTML:e.area.name},null,12,l)):o("",!0)}});export{_};
